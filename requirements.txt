@@ -5,4 +5,4 @@ wget
 lxml
 networkx
 community
-pickle
+pickle-mixin
