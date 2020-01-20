@@ -6,3 +6,6 @@ lxml
 networkx
 community
 pickle-mixin
+python-igraph
+chart-studio
+plotly
