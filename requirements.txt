@@ -1,11 +1,2 @@
-numpy
-matplotlib
-pandas
 wget
 lxml
-networkx
-community
-pickle-mixin
-python-igraph
-chart-studio
-plotly
