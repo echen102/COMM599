@@ -1,6 +1,6 @@
 wget
 networkx
 pickle-mixin
-python-igraph
+python-igraph==0.7.1.post6
 chart-studio
 plotly
