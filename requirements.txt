@@ -4,3 +4,4 @@ nltk
 spacy
 gensim
 textblob
+vaderSentiment
