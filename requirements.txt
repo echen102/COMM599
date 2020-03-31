@@ -16,3 +16,4 @@ spacy
 gensim
 textblob
 vaderSentiment
+scikit-learn
