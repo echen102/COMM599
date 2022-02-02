@@ -5,6 +5,10 @@ Former TAs/contributers:
  - Emily Chen
  - Julie Jiang
 
+### Spring 2022 Tutorial Schedule
+1. `tutorial_hello_world/`
+2. `tutorial_networks/`
+
 ### Spring 2022 Setup 
 - Anaconda/ Jupyter
 - Google CoLab
