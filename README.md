@@ -3,7 +3,7 @@
 Current TA: Alex Bisberg (bisberg@usc.edu)  
 Former TAs/contributers:
  - Emily Chen
- - Julie Jian
+ - Julie Jiang
 
 ### Spring 2022 Setup 
 - Anaconda/ Jupyter
